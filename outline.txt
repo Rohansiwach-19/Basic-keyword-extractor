@@ -1,2 +1,7 @@
 1. program will take a input from the user. it should be any historical person or event(whose details can be easily found out on the internet).
 2. program will check the wikipedia page of that input and accumulate all the keywords for that while also cutting filler words.
+git hb commands
+
+a. git add .
+b. git commit -m "comment" #yaha comment ki jagah ek do word ka discription aayega to identify the change
+c. git push
