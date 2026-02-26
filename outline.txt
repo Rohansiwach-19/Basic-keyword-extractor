@@ -14,3 +14,6 @@ a. git clone <repo link>
 a. git pull
 
 4). after working do (1)
+
+5. to dlet a git repo (created in pc)
+a. rm -rf .git
